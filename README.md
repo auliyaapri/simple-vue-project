@@ -1,29 +1,11 @@
-# vue-project
+# Projek Pencarian Film✨
+Dalam proyek ini, saya telah menciptakan sebuah situs web pencarian film menggunakan Vue.js 3 serta memanfaatkan API TMDB.
 
-This template should help get you started developing with Vue 3 in Vite.
+## 💻 Demo Website
+https://auliyaapri.github.io/Projek-Web-Kuliah-Semester-2/
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## 🚀 Tech Stack Used
+- HTML, CSS , Javascript🌐
+- VUE JS
+- TMDB API
